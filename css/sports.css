@@ -2,6 +2,8 @@ body{
 background-image: url(../images/website-image.jpg);   
 width: 450px;
 margin: auto;
+background-repeat: no-repeat;
+background-size: cover;
 text-align: center;
 }
 h1{

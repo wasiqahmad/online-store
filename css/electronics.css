@@ -1,6 +1,11 @@
 body{
   /* background:tomato; */
   background-image: url(../images/website-image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+width: 450px;
+margin: auto;
+text-align: center;
 }
 h1{
     color:white ;
@@ -33,7 +38,7 @@ background-color: brown;
 
 .background{
     width: 450px;
- height: 1750px;
+ /* height: 1750px; */
     margin: auto;
     /* color: white; */
     background-color: rgb(50, 100, 100);

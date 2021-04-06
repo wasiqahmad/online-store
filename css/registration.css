@@ -3,6 +3,8 @@ background-image: url(../images/website-image.jpg);
     /* color: wheat; */
 width: 650px;
 margin: auto;
+background-repeat: no-repeat;
+background-size: cover;
 text-align: center;
 }
 ::placeholder{
