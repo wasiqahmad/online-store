@@ -1,26 +1,41 @@
 body{
-  background:tomato;
+  /* background:tomato; */
+  background-image: url(../images/website-image.jpg);
 }
 h1{
-    color:yellow ;
+    color:white ;
     width: 154px;
+    margin: auto;
     /* border: 4px solid hotpink; */
     /* background: lightseagreen; */
 }
+
 hr{
     color: violet;
 }
 img{
-    border:blue 3px solid;
+    border:grey 5px solid;
     /* padding: 5px; */
     margin: 5px;
-    width: 300px;
-    height: 200px;
+    margin-top: 20px;
+    width: 400px;
+    height: 300px;
 }
 button{
     color: yellow;
 background-color: brown;
-    margin-top: 15px;
+    margin-top: 60px;
     border-radius: 5px;
-    font-size: 20px;
+    font-size: 25px;
+    /* margin-bottom: 100px; */
+}
+
+
+.background{
+    width: 450px;
+ height: 1750px;
+    margin: auto;
+    /* color: white; */
+    background-color: rgb(50, 100, 100);
+    text-align: center;
 }

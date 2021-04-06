@@ -1,16 +1,17 @@
 body{
-background-color: orangered;    /* z-index: 2; */
+background-image: url(../images/website-image.jpg);
+
 }
 h1{
-    color: gold;
+    color: white;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
 }
 img{
-    width: 300px;
-    height: 200px;
+    width: 400px;
+    height: 300px;
     margin-top: 20px;
-    border: blue 5px solid;
+    border: grey 5px solid;
 }
 button{
     
@@ -20,4 +21,15 @@ background-color: orangered;
     height: 25px;
 color: yellow;
 border-radius: 5px;
+/* font-size: 100%; */
+}
+.background{
+    width: 450px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(50, 100, 100);
+    height: 2150px;
+}
+.home{
+    margin-top: 40px;
 }

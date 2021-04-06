@@ -1,9 +1,21 @@
 body{
-background-color:rgba(250, 80, 10, 0.9) ;
+
+background-image: url(../images/website-image.jpg);
+
+
 }
+
 h1{
-    color:yellow;
+    color:white;
 font-size: 250%;
+}
+.background{
+   
+    background-color: rgb(50, 100, 100);
+    width: 350px;
+margin: auto;
+text-align: center;
+
 }
 a{
     /* font-size: 150%; */

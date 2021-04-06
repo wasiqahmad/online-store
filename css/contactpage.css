@@ -1,38 +1,52 @@
 body{
-    background-color: red;
-    color: gold;
+    /* background-color: skyblue; */
+    background-image: url(../images/website-image.jpg);
+    width: 300px;
+    margin: auto;
+    
 }
 
 h1{
  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
-color:gold;
-text-shadow:green 2px 2px 1px;
+color:white;
+/* text-shadow:green 2px 2px 1px; */
 }
 input{
     font-size: 18px;
     border: 3px solid gray;
-    color: gold;
-    background-color: maroon;
+    color: black;
+    background-color:white;
 }
 label{
     font-size: 23px;
-    color:gold;
-    text-shadow:green 2px 2px 1px;
+    color:white;
+    /* text-shadow:green 2px 2px 1px; */
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 textarea{
     width: 200px;
-    color: gold;
-    background-color: maroon;
-    border: dashed 3px gold;
+    color: black;
+    background-color: white;
+    border: solid 3px grey;
     /* text-shadow:green 2px 2px 1px;; */
 }
 ::placeholder{
-    color:gold;
+    color:black;
+}
+.background{
+    background-color: rgb(50, 100, 100);
+text-align: center;
+height: 600px;
 }
 button{
     /* background-image: url(../images/beautiful.jpg) ; */
 background-color: brown;
 color: yellow;
 border-radius: 5px;
+font-size: 20px;
+margin-top: 15px;
+}
+.home{
+    /* width: 150px; */
+    /* margin: auto; */
 }
