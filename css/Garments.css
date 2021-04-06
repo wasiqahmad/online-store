@@ -21,6 +21,7 @@ background-color: orangered;
     height: 25px;
 color: yellow;
 border-radius: 5px;
+margin-top: 30px;
 /* font-size: 100%; */
 }
 .background{
@@ -28,8 +29,8 @@ border-radius: 5px;
     margin: auto;
     text-align: center;
     background-color: rgb(50, 100, 100);
-    height: 2150px;
+    height: 2080px;
 }
 .home{
-    margin-top: 40px;
+    margin-top: 10px;
 }
